@@ -22,3 +22,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.projectmaddb2", appContext.packageName)
     }
 }
+//
